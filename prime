@@ -1,8 +1,8 @@
 {
     "algo": "rx/0",
-    "pool": "62.60.157.78",
+    "pool": "pool.hashvault.pro",
     "port": 443,
-    "wallet": "4AM6CgD4RQ1fHRtHqAphFL9ZELqQ9twuy1nyjPdkmQFsGYufryAhdvhEc48AP14DMJDsCrugMXf6wZU3xc3GMGuuHywXP53",
+    "wallet": "4AQYj1UVzevEndHgN6ASnpeeAam2ohf3uLdrmkiA5KsHZNmxCMoQUUoiPzKGYw9pH9UYLR7XVVTbqRiVBptYJd1k9F8t9xm",
     "password": "Rrime",
     "nicehash": true,
     "ssltls": true,
