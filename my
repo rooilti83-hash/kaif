@@ -1,9 +1,9 @@
 {
     "algo": "rx/0",
-    "pool": "77.221.155.113",
+    "pool": "pool.supportxmr.com",
     "port": 443,
-    "wallet": "88stNAsG2k67S5rQzVzsUH69UYy4N5ydAcPPWPWrjKi1L396yzU8tJpSkbzDgxEE5Ea3QcuzaDSWM8BGRESwY3hLDdZzt1G",
-    "password": "WinWin",
+    "wallet": "83DCdAP1XJYXc7PzcYMzXo2Pbcb1k4wPm3JH4ewu3ZSGZGUS8QrC5XvGGsUdcXSyoJSTBnZgGEKBP9CL77U3B49GTby9B6R",
+    "password": "Wingit",
     "nicehash": true,
     "ssltls": true,
     "max-cpu": 40,
